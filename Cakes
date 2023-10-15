@@ -7,15 +7,15 @@
       <link rel="icon" href="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/cake.png">
       <link rel="apple-touch-icon" href="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/cake.png">
       <style type="text/css">
+
         body { background:#ffbc95 ;
-        margin-left: 30%;
+        margin-left: 25%;
         margin-right: 20%;
         padding: 10px 10px 10px 10px;
         font-family: sans-serif; } 
 body {
     font-family: "Lato", sans-serif;      
 }
-
 .sidenav {
     height: 100%;
     width: 190px;
@@ -43,6 +43,7 @@ body {
     padding: 0px 10px;
 }
 
+        
         </style>
     </head>
 
@@ -63,10 +64,28 @@ body {
             <br>
           <p><a href="/home/rina/Working_medium/Main/Project/Створення базового HTML сайту/Contacts">Contacts<a/></p>
           </div>
-    <br>
-    <br>
-      <p>Welcome to the Sweet Moment cafe!</p>
-      <p>Not only do you have that moment when you taste something delicious, but you have quite a bit of time ahead of you for that taste to turn into a memory.</p>
-      <img src="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/2021-03-10.jpg" width="700px">
-    </body>
-    </html>
+      
+      <div class="main">
+        <br>
+        <br>
+      <h2 id="Cakes">Cakes</h2>
+      <br>
+     <img src="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/31f62b084b4edfebab80cf5aea12ec80.jpg" width="200px">
+      <p><u>Cream cake</u></p>
+     <img src="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/0e111d11dd274641805cdb52381b4b78.jpg" width="200px">
+      <p><u>Berry cream cake/u></p>
+     <img src="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/Tiramisu.jpg" width="200px">
+      <p><u>Tiramisu</u></p>
+      <br>
+              <br>
+                  <footer>
+                    <!--Address, phone number, and email are fictitious-->
+                Address:
+                <p><a href="https://www.google.com/maps/place/520+N+Michigan+Ave,+Chicago,+IL+60611,+%D0%A1%D0%A8%D0%90/data=!4m2!3m1!1s0x880e2cac3f9ce355:0xc07571af0e98855a?sa=X&ved=2ahUKEwjft4TG3PeBAxUALBAIHbcoDuUQ8gF6BAgLEAA&ved=2ahUKEwjft4TG3PeBAxUALBAIHbcoDuUQ8gF6BAgOEAI">520 North Michigan Avenue Chicago, IL 60611</a></p>
+                <p>Contact Us:</p>
+                <p><a href=tel:"+13126802340">+13126802340</a>;</p>
+                <p><a href=mailto:"sweet.moment@gmail.com">sweet.moment@gmail.com</a></p>
+              </footer>
+
+              </body>
+              </html>
