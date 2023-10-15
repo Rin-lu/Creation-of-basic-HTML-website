@@ -1,0 +1,25 @@
+    <!doctype html>
+    <html lang="en">
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Coffee</title>
+      <link rel="icon" href="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/iconos-coffe2.png" type="image/svg+xml">
+      <link rel="apple-touch-icon" href="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/iconos-coffe2.png">
+      <style type="text/css">
+        body { background: radial-gradient( rgb(255, 180, 95), #000000 );
+        margin-left: 25%;
+        margin-right: 20%;
+        padding: 10px 10px 10px 10px;
+        font-family: sans-serif; }   
+        </style>
+    </head>
+<header><a href="/home/rina/Working_medium/Main/Project/Створення базового HTML сайту/index.html">← Back</a></header>
+    <body>
+      <h2>Coffee</h2>
+      <img src="/home/rina/Working_medium/Main/Project/Photos, videos and other files/Image/coffee-magic.webp" width="550px">
+      <p>Caffeine increases dopamine in the brain, which makes a person more alert and active.</p>
+        <p>Moderate consumption of the aromatic beverage is very good for improving overall mood, well-being, physical and intellectual performance.</p>
+      <script src=" "></script>
+    </body>
+    </html>
